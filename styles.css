@@ -1,0 +1,17 @@
+body{background-color: black; color:white; font-family:"Comic Sans MS";}
+h1{color:red;}
+h2{color:orange;}
+h3{color:yellow;}
+h4{color:green;}
+h5{color:blue;}
+h6{color:indigo;}
+p{color:purple; border: 5px solid maroon; padding: 30px; margin-top: 50px;}
+table{color:lime;}
+form{color:magenta;}
+img{border: 5px dashed orange; padding:10px;}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:50%;
+}
